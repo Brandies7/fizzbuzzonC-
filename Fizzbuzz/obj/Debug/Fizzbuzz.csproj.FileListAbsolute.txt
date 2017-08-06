@@ -1,0 +1,6 @@
+C:\Users\adanb\Desktop\devCodeCamp\Fizzbuzz\Fizzbuzz\bin\Debug\Fizzbuzz.exe.config
+C:\Users\adanb\Desktop\devCodeCamp\Fizzbuzz\Fizzbuzz\bin\Debug\Fizzbuzz.exe
+C:\Users\adanb\Desktop\devCodeCamp\Fizzbuzz\Fizzbuzz\bin\Debug\Fizzbuzz.pdb
+C:\Users\adanb\Desktop\devCodeCamp\Fizzbuzz\Fizzbuzz\obj\Debug\Fizzbuzz.csprojResolveAssemblyReference.cache
+C:\Users\adanb\Desktop\devCodeCamp\Fizzbuzz\Fizzbuzz\obj\Debug\Fizzbuzz.exe
+C:\Users\adanb\Desktop\devCodeCamp\Fizzbuzz\Fizzbuzz\obj\Debug\Fizzbuzz.pdb
